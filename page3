@@ -1,0 +1,63 @@
+ <!DOCTYPE html>
+<html>
+<head>
+<title> CSS Grid </title>
+
+    <link href="CrueAbout.css"
+          rel="stylesheet" type="text/css">
+    
+    
+    </head>
+    
+    <body>
+           <div class="navbar">
+      
+
+       <ul>
+           <li><a href="Page1.html">Home</a></li>
+           <li><a href="#">The Crue</a></li>
+           <li><a href="#">Discogrophy</a></li>
+           <li><a href="#">Gallery</a></li>
+       </ul>
+   
+        </div>
+    <div class="container">
+ 
+        
+        
+    <h1> överview </h1>  
+         
+    
+   <p> Mötley Crüe is an American rock band formed in Los Angeles, California, in 1981.The group was founded by bassist Nikki Sixx, drummer Tommy Lee, lead guitarist Mick Mars and lead singer Vince Neil. Mötley Crüe has sold 100 million albums worldwide, making them one of the best-selling bands of all time. They have also achieved seven platinum or multi-platinum certifications, nine Top 10 albums on the Billboard 200 chart (including 1989's Dr. Feelgood, which is Mötley Crüe's only album to reach number one), twenty-two Top 40 mainstream rock hits, and six Top 20 pop singles.
+    <br>
+       
+       <img class="" src="" alt="">
+       
+       <br>
+       The members of Mötley Crüe have often been noted for their hedonistic lifestyles and the androgynous persona they maintained. Following its hard rock and heavy metal origins on their first two albums, Too Fast for Love (1981) and Shout at the Devil (1983), the release of their third album Theatre of Pain (1985) saw the band joining the first wave of glam metal.The band has also been known for their elaborate live performances, which features flame thrower guitars, roller coaster drums kits, and heavy use of pyrotechnics. </p>
+            
+            
+         <br>
+    <br>
+         
+        <p>Mötley Crüe was formed on January 17, 1981, when bassist Nikki Sixx left the band London and began rehearsing with drummer Tommy Lee and vocalist/guitarist Greg Leon.[19] Lee had previously worked with Leon in a band called Suite 19[20] and the trio practiced together for some time; Leon eventually decided not to continue with them. Sixx and Lee then began a search for new members and soon met guitarist Bob Deal, better known as Mick Mars, after answering an advertisement that he placed in The Recycler that read: "Loud, rude and aggressive guitar player available". Mars auditioned for Sixx and Lee, and was subsequently hired. Although a lead vocalist named O'Dean was auditioned,[21][22] Lee had known Vince Neil from their high school days at Charter Oak High School in Covina, California,[23] and the two had performed in different bands on the garage band circuit. Upon seeing him perform with the band Rock Candy at the Starwood in Hollywood, California, Mars suggested they have Neil join the band. At first Neil refused the offer, but as the other members of Rock Candy became involved in outside projects, Neil grew anxious to try something else. Lee asked another time, Neil was hired on April 1, 1981, and the band played their first gig at the Starwood nightclub on April 24.</p>
+    
+        
+    <br>
+    <br>
+         
+
+<p>I wanted a band that would be like David Bowie and the Sex Pistols thrown in a blender with Black Sabbath. —Nikki Sixx
+    
+    <br> 
+    <br>
+
+    The newly formed band did not yet have a name. Sixx has said that he told his bandmates that he was "thinking about calling the band Christmas". The other members were not very receptive to that idea. Then, while trying to find a suitable name, Mars remembered an incident that occurred when he was playing with a band called White Horse, when one of the other band members called the group "a motley looking crew". He had remembered the phrase and later copied it down as 'Mottley Cru'. After modifying the spelling slightly, "Mötley Crüe" was eventually selected as the band's name, with the stylistic decision suggested by Neil to add the two sets of metal umlauts, supposedly inspired by the German beer Löwenbräu, which the members were drinking at the time.[26] Other than the periods of February 1992 to September 1996 and from March 1999 to September 2004, the line up of Neil, Sixx, Lee, and Mars remained the same.</p>
+    
+        
+    <br>
+    <br>
+         
+         </div>  
+       </body>      
+</html>

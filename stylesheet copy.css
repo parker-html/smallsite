@@ -1,0 +1,147 @@
+/* YOUR STYLE HERE */
+
+/* This demo file has */
+
+body {
+	font-family: "Helvetica Neue", sans-serif;
+	margin-top: 100px;
+    width: 1080px;
+    margin: 0 auto;
+    
+}
+
+.container {
+    width: 800px;
+    margin: 0 auto;
+}
+
+/* This webpage is using google font called Oswald
+https://fonts.google.com/specimen/Oswald 
+
+If you use google font, it would be good not to use too many font families 
+
+If you subscribe Adobe Typekit, you can use fonts from Typekit as well.
+*/
+
+ul>li{
+    /* you can change the bullet point for <ul> */
+    list-style-type: square;
+    /*list-style-type: none; */
+}
+
+ol>li {
+    /* you can change the bullet point for <ol> */
+    list-style-type:lower-alpha;
+    /*list-style-type: none; */
+}
+
+#navbar{
+    /*overflow controls what happens to content that is too big to fit into an area*/
+    overflow: hidden;
+    background-color: dimgrey;
+    position: fixed;
+    text-align: center;
+    top: 0;
+    left:0;
+    width: 100%;
+    display: block;
+}
+#navbar a{
+    /*displaying the links as block elements makes the whole area clickable; inline-block common to display items horizontally*/
+    display: inline-block; 
+    padding: 14px;
+    color: aliceblue;
+ }
+
+#navbar a:hover{
+    background-color: #111;
+}
+#navbar a:active{
+    background-color: darkturquoise;
+}
+
+
+h1 { 
+	font-family: 'Oswald', sans-serif;
+	font-size: 6em;
+    /* 16px 1.0000em 100.00%
+    Pixel is a static measurement, while percent and EM are relative measurements. The size of an EM or percent depends on its parent.*/
+	font-weight:  700; /*700 is same as bold*/
+	text-transform: uppercase;
+	letter-spacing: 2px; /*spacing between characters*/
+	line-height: 1.2em; /*specifies height of line*/
+	background-color: #fff;
+	margin-bottom: 20px;
+	padding: 40px;
+	border-top: solid 40px #000;
+    color: black;
+}
+
+img{
+    padding: 75px;
+}
+h2 {	
+	font-family: 'Oswald', sans-serif;
+	background-color: black;
+	padding: 20px;
+	margin-bottom: 20px;
+	margin-top: 40px;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	color: white;
+}
+
+h3 {	
+	font-family: 'Oswald', sans-serif;
+	background-color: black;
+	padding: 20px;
+	margin-bottom: 20px;
+	margin-top: 40px;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	color: white;
+}
+
+h4 {
+    font-family: 'Oswald', sans-serif;
+	background-color: black;
+	padding: 20px;
+	margin-bottom: 20px;
+	margin-top: 40px;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	color: white;
+    
+}
+p {
+    /* it will choose the default font if you do not use any 'font-family: ;' */
+    
+	margin-bottom: 2em;	 
+    /* Relative to the font-size of the element (2em means 2 times the size of the current font)*/
+    line-height: 1.2em;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.two_col {
+    width: 400px;
+    height: 450px;
+    float: left;
+}
+
+/* forexample, if you need three col*/
+.three_col {
+    width: 260px;
+    height: 500px;
+    float: left;
+}
+
+
+footer {
+    font-family: 'Oswald', sans-serif;
+    font-weight:  100;
+    font-size: 0.8em;
+	background-color: #D1D2D4;
+	padding: 20px;
+	margin: 20px;
+}

@@ -1,0 +1,16 @@
+.navbar{
+    position: relative;
+    top: 150px;
+}
+
+a{
+    color: darkblue;
+        text-decoration: none;
+    text-transform: uppercase;
+    
+}
+
+ul a:hover{
+    color: deepskyblue;
+    text-decoration: none
+}
